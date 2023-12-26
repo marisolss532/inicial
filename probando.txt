@@ -2,3 +2,4 @@ comienzo el proyecto
 y añado otra vez líneas
 Blue monday
 que bien se está en casa
+vamos a ver el gui
