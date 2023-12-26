@@ -1,3 +1,4 @@
 comienzo el proyecto
 y añado otra vez líneas
 Blue monday
+vamos a ver el gui
